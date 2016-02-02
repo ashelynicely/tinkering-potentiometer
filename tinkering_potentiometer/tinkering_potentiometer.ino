@@ -1,6 +1,12 @@
 // You can see a graph of the potentiometer by
 // running the program and then selecting
 // Tools->Serial Plotter
+//
+// Your goal:
+// Can you make a musical instrument?
+// The potentiometer values go from 0 to 1023
+// Try using the "map" command. Here's a website about it.
+// https://www.arduino.cc/en/Reference/Map
 
 // The potentiometer is on port A2
 #define   POTENTIOMETER   A2
